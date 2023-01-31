@@ -1,0 +1,61 @@
+::Q1:: Выберите один правильный ответ: Тепловой поток пропорционален: { ~коэффициенту термического расширения; ~коэффициенту температуропроводности; =градиенту температуры; }
+
+::Q2:: Выберите один правильный ответ: Тепловой поток пропорционален: { =поверхности ~коэффициенту термического расширения; ~коэффициенту температуропроводности; }
+
+::Q3:: Выберите один правильный ответ: Тепловой поток пропорционален: { ~коэффициенту термического расширения; ~коэффициенту температуропроводности; =коэффициенту теплопроводности;	 }
+
+::Q4:: Выберите один правильный ответ: Закон Фурье - это: { ~основной закон теплообмена; =основной закон теплопроводности; ~основной закон теплоотдачи; }
+
+::Q5:: Выберите один правильный ответ: Единичный градиент температуры - это  { ~изменение температуры в 1 град на расстоянии 1м за 1секунду; =изменение температуры в 1град на расстоянии в 1м по нормали к изотермной поверхности; ~изменение температуры на расстоянии 1м по нормали к изотермной поверхности; }
+
+::Q6:: Выберите один правильный ответ: Единичный градиент температуры - это  { ~градус температуры по Кельвину; ~изменение температуры в 1 град на расстоянии 1м за 1секунду; =изменение температуры в 1град на расстоянии в 1м по нормали к изотермной поверхности; }
+
+::Q7:: Выберите соответсвие: Перенос тепла теплопроводностью осуществляется в: {=твердых телах, металлах  -> свободными электронами  =твердых телах, диэлектриках	 -> фононами =жидких средах -> молекулами и ионами  =газах -> молекулами }
+
+::Q8:: Выберите один правильный ответ: Тепловой поток по закону Фурье определяется по формуле: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q8_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q8_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q8_2.jpg"/> }
+
+::Q9:: Выберите один правильный ответ: Закон Фурье в дифференциальной форме: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_2.jpg"/> }
+
+::Q10:: Выберите один правильный ответ: "Краевые условия" в теории теплопроводности - это: { =условия однозначности ращения дифференциального уравнения теплопроводности; ~условие однозначности решения дифференциального уравнения теплообмена; ~условие однозначности решения дифференциального уравнения теплопередачи 4 }
+
+::Q11:: Ответьте на вопрос указанный на картинке: Для  1слойной  цилиндрической стенки тепловой поток равен <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q11.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_4.jpg"/> }
+
+::Q12:: Ответьте на вопрос указанный на картинке: Удельный тепловой поток равен <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q12.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_4.jpg"/> }
+
+::Q13:: Ответьте на вопрос указанный на картинке: Задание равенства тепловых потоков  
+  на границе соприкосновения 2х тел, <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q13.jpg"/> { ~граничное условие первого рода; ~граничное условие второго рода; =граничное условие четвертого рода. }
+
+::Q14:: Выберите один правильный ответ: При решении дифференциального уравнения теплопроводности задание температурного поля тела в начальный момент является заданием: { ~геометрическим условием однозначности; ~физическим условием однозначности; =начальным (временным) условием однозначности; }
+
+::Q15:: Ответьте на вопрос указанный на картинке: Задание температуры на поверхностях тела
+  в любой момент времени <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q15.jpg"/> { =граничное условие первого рода; ~граничное условие второго рода; ~граничное условие третьего рода; }
+
+::Q16:: Ответьте на вопрос указанный на картинке: Задание теплового потока на поверхности тела 
+В любой момент времени <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q16.jpg"/> { ~граничное условие первого рода; =граничное условие второго рода; ~граничное условие третьего рода; }
+
+::Q17:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q17.jpg"/> { ~граничное задание первого рода; ~граничное задание второго рода =граничное условие третьего рода: }
+
+::Q18:: Ответьте на вопрос указанный на картинке: Для многослойной плоской стенки 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q18.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q18_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q18_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q18_4.jpg"/> }
+
+::Q19:: Ответьте на вопрос указанный на картинке: Для многослойной плоской стенки изображение графика изменения температуры неверно для стенки <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q19.jpg"/> { ~первой =второй ~третей }
+
+::Q20:: Выберите один правильный ответ: При решении дифференциального уравнение теплопроводности задание формы и размеров тела являются заданием: { =геометрических условий однозначности; ~физических условий однозначности; ~граничных условий однозначности; }
+
+::Q21:: Выберите один правильный ответ: При решении дифференциального уравнение теплопроводности задание теплофизических характеристик тела являются заданием: { ~геометрических условий однозначности; =физических условий однозначности; ~граничных условий однозначности; }
+
+::Q22:: Выберите один правильный ответ: При решении  дифференциального уравнения теплопроводности условия теплообмена на границах тела являются заданием: { ~геометрических условий однозначности; ~физических условий однозначности;	 =граничных условий однозначности; }
+
+::Q23:: Ответьте на вопрос указанный на картинке: Термическое сопротивление
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q23.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q23_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q23_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q23_4.jpg"/> }
+
+::Q24:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q24.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_4.jpg"/> }
+
+::Q25:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q25.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q25_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q25_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q25_4.jpg"/> }
+
+::Q26:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q26.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q26_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q26_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q26_4.jpg"/> }
+

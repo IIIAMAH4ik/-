@@ -1,0 +1,157 @@
+::Q1:: Выберите один правильный ответ: Абсолютное давление рабочего тела определяется по формуле ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q1_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q1_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q1_2.jpg"/> }
+
+::Q2:: Выберите один правильный ответ: Избыточное давление рабочего тела определяется по формуле ... . { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q2_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q2_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q2_2.jpg"/> }
+
+::Q3:: Выберите один правильный ответ: Вакуумное давление (разрежение) определяется по формуле ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q3_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q3_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q3_2.jpg"/> }
+
+::Q4:: Выберите один правильный ответ: Абсолютная температура рабочего тела определяется по формуле ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_2.jpg"/> }
+
+::Q5:: Выберите один правильный ответ: Удельный объем рабочего тела определяется по формуле ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_2.jpg"/> }
+
+::Q6:: Выберите один правильный ответ: Плотность рабочего тела определяется по формуле ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_2.jpg"/> }
+
+::Q7:: Выберите соответсвие: Найти соответствие между обозначением и пояснением ... . {= t' -> начальная температура 1-го теплоносителя =t'' -> конечная температура 1-го теплоносителя =c1 -> теплоемкость 1-го теплоносителя =G1 -> Расход 1-го теплоносителя =Q1 -> теплота, теряемая 1-ым теплоносителем }
+
+::Q8:: Выберите соответсвие:  {=t' -> начальная температура 2-го теплоносителя =t'' -> конечная температура 2-го теплоносителя =G2 -> расход 2-го теплоносителя =c2 -> теплоемкость 2-го теплоносителя  =Q2 -> теплота, подводимая ко 2-му теплоносителю }
+
+::Q9:: Выберите соответсвие: Найти соответствие между обозначением и пояснением ... . {=dt -> средний температурный напор теплообменника =F -> теплоотдающая поверхность теплообменика =Q -> теплота, передаваемая от одного теплоносителя к другому  =K -> коэффициент теплопередачи }
+
+::Q10:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q10.jpg"/> { ~нагрква воздуха =охлаждения воздуха ~увлажнения воздуха }
+
+::Q11:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q11.jpg"/> { =охлаждения воздуха ~нагрева воздуха ~осушение  воздуха }
+
+::Q12:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+1-2 - это процесс … .
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q12.jpg"/> { ~охлаждения воздуха =нагрева воздуха ~увлажнения воздуха }
+
+::Q13:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q13.jpg"/> { =изотермический ~изобарный ~изохорный }
+
+::Q14:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q14.jpg"/> { ~изотермический ~изобарный =адиабатный }
+
+::Q15:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q15.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_4.jpg"/> }
+
+::Q16:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q16.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q16_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q16_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q16_4.jpg"/> }
+
+::Q17:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q17.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q17_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q17_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q17_4.jpg"/> }
+
+::Q18:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q18.jpg"/> { ~Тринклера =Карно прямой ~Карно обратный }
+
+::Q19:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q19.jpg"/> { ~Дизеля ~Карно прямой =Отто }
+
+::Q20:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q20.jpg"/> { =Карно прямой ~Карно обратный ~Отто }
+
+::Q21:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q21.jpg"/> { ~Карно прямой =Карно обратный ~Отто }
+
+::Q22:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q22.jpg"/> { =Отто ~Дизеля ~Тринклера }
+
+::Q23:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q23.jpg"/> { ~Отто =Дизеля ~Тринклера }
+
+::Q24:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q24.jpg"/> { ~Отто ~Дизеля =Тринклера }
+
+::Q25:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Работа положительна в процессах … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q25.jpg"/> { =1-2 ~3-4 ~4-1 }
+
+::Q26:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Работа отрицательна  в процессах … .
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q26.jpg"/> { ~1-2 ~2-3 =4-1 }
+
+::Q27:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Работа положительна в процессах … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q27.jpg"/> { ~1-2 =2-3 ~4-1 }
+
+::Q28:: Ответьте на вопрос указанный на картинке: Работа отрицательна  в процессах … .
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q28.jpg"/> { ~1-2 ~2-3 =4-1 }
+
+::Q29:: Ответьте на вопрос указанный на картинке: Работа цикла <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q29.jpg"/> { ~положительна =отрицательна ~равна нулю }
+
+::Q30:: Ответьте на вопрос указанный на картинке: Работа цикла <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q30.jpg"/> { =положительна ~отрицательна ~равна нулю }
+
+::Q31:: Ответьте на вопрос указанный на картинке: Теплота цикла … .
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q31.jpg"/> { =положительна ~отрицательна ~равна нулю }
+
+::Q32:: Ответьте на вопрос указанный на картинке: Тепло подводится в процессе … .
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q32.jpg"/> { =1-2 ~2-3 ~3-4 }
+
+::Q33:: Ответьте на вопрос указанный на картинке: Тепло отводится в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q33.jpg"/> { ~1-2 ~2-3 =3-4 }
+
+::Q34:: Ответьте на вопрос указанный на картинке: Тепло подводится в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q34.jpg"/> { ~1-2 =2-3 ~3-4 }
+
+::Q35:: Ответьте на вопрос указанный на картинке: Тепло отводится в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q35.jpg"/> { ~1-2 ~2-3 =3-4 }
+
+::Q36:: Ответьте на вопрос указанный на картинке: Положительная работа совершается в процессах … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q36.jpg"/> { =1-2 ~3-4 ~4-1 }
+
+::Q37:: Ответьте на вопрос указанный на картинке: Отрицательная работа совершается в процессах … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q37.jpg"/> { ~1-2 ~2-3 =3-4 }
+
+::Q38:: Ответьте на вопрос указанный на картинке: Полезная работа цикла равна площади … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q38.jpg"/> { ~под процессом 3-4 ~под процессом 4-1 =площади цикла }
+
+::Q39:: Ответьте на вопрос указанный на картинке: Теплота подведенная в цикле равна
+площади фигуры … .
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q39.jpg"/> { ~S1-4-3-S2 =S1-1-2-S2 ~1-2-3-4 }
+
+::Q40:: Ответьте на вопрос указанный на картинке: Теплота отведенная  в цикле равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q40.jpg"/> { =S1-4-3-S2 ~S1-1-2-S2 ~1-2-3-4 }
+
+::Q41:: Ответьте на вопрос указанный на картинке: Полезная теплота цикла равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q41.jpg"/> { ~S1-4-3-S2 ~S1-1-2-S2 =1-2-3-4 }
+
+::Q42:: Ответьте на вопрос указанный на картинке: Теплота подводимая в цикле равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q42.jpg"/> { =S1-2-3-S4 ~S1-1-4-S4 ~1-2-3-4 }
+
+::Q43:: Ответьте на вопрос указанный на картинке: Теплота отводимая  в цикле равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q43.jpg"/> { ~S1-2-3-S4 =S1-1-4-S4 ~1-2-3-4 }
+
+::Q44:: Ответьте на вопрос указанный на картинке: Холодопроизводительность цикла равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q44.jpg"/> { ~S1-1-4-S4 =S1-2-3-S4 ~1-2-3-4 }
+
+::Q45:: Ответьте на вопрос указанный на картинке: Работа положительна в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q45.jpg"/> { ~1-2 ~ 2-3 =3-4 }
+
+::Q46:: Ответьте на вопрос указанный на картинке: Работа отрицательна  в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q46.jpg"/> { =1-2 ~2-3 ~3-4 }
+
+::Q47:: Ответьте на вопрос указанный на картинке: Положительная работа равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q47.jpg"/> { ~V2-2-1-V1 =V2-3-4-V1 ~1-2-3-4 }
+
+::Q48:: Ответьте на вопрос указанный на картинке: Отрицательная работа равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q48.jpg"/> { =V2-2-1-V1 ~V2-3-4-V1 ~1-2-3-4 }
+
+::Q49:: Ответьте на вопрос указанный на картинке: Работа цикла  равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q49.jpg"/> { ~V2-2-1-V1 ~V2-3-4-V1 =1-2-3-4 }
+
+::Q50:: Ответьте на вопрос указанный на картинке: Теплота подводится в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q50.jpg"/> { ~1-2 =2-3 ~3-4 }
+
+::Q51:: Ответьте на вопрос указанный на картинке: Работа положительна в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q51.jpg"/> { ~1-2 ~2-3 =3-4 }
+
+::Q52:: Ответьте на вопрос указанный на картинке: Работа отрицательна  в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q52.jpg"/> { =1-2 ~2-3 ~3-4 }
+
+::Q53:: Ответьте на вопрос указанный на картинке: Теплота подводится в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q53.jpg"/> { ~1-2 =2-3 ~3-4 }
+
+::Q54:: Ответьте на вопрос указанный на картинке: Теплота отводится  в процессе … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q54.jpg"/> { ~1-2 ~2-3 =4-1 }
+
+::Q55:: Ответьте на вопрос указанный на картинке: Теплота подводимая равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q55.jpg"/> { ~S1-1-4-S3 =S1-2-3-S3 ~1-2-3-4 }
+
+::Q56:: Ответьте на вопрос указанный на картинке: Теплота отводимая  равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q56.jpg"/> { =S1-1-4-S3 ~S1-2-3-S3 ~1-2-3-4 }
+
+::Q57:: Ответьте на вопрос указанный на картинке: Теплота цикла  равна площади фигуры … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q57.jpg"/> { ~S1-1-4-S3 ~S1-2-3-S3 =1-2-3-4 }
+
+::Q58:: Выберите один правильный ответ: Цикл Карно состоит из...  { ~двух изохорных и двух адиабат ~двух адиабат ,изохорного подвода и мзобарного отвода тепла =двух изотерм и двух адиабат }
+
+::Q59:: Выберите один правильный ответ: Теплоотдача интенсивнее при режиме ...  { ~ламинарном =турбулентном ~переходном }
+
+::Q60:: Выберите один правильный ответ: При 23000<=Re<=10^5режимом движения среды ...  { ~ламинарный ~турбулентный =переходный }
+
+::Q61:: Выберите один правильный ответ: При  Re>10^5 режим движения среды ...  { ~ламинарный =турбулентный ~переходный }
+
+::Q62:: Выберите один правильный ответ: При Re<2300 режим движения ...  { =ламинарный ~турбулентный ~переходный }
+
+::Q63:: Выберите один правильный ответ: КПД цикла Карно ...  { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q63_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q63_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q63_2.jpg"/> }
+
+::Q64:: Выберите один правильный ответ: Холодильный коэффицент обратного цикла Карно ...  { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q64_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q64_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q64_2.jpg"/> }
+
+::Q65:: Выберите один правильный ответ: Коэффицент использования тепла обратного цикла Карно ...  { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q65_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q65_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q65_2.jpg"/> }
+
+::Q66:: Выберите один правильный ответ: Степень сжатия цикла теплового двигателя ...  { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q66_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q66_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q66_2.jpg"/> }
+

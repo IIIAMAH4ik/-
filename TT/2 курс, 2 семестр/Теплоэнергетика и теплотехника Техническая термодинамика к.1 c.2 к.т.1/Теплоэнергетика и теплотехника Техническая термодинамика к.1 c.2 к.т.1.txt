@@ -1,0 +1,152 @@
+::Q1:: Выберите один правильный ответ: Техническая термодинамика - это раздел ... { ~механики ~физики твердого тела =теплотехники }
+
+::Q2:: Выберите один правильный ответ: Уравнение  состояния P*V = R*T  для одного   -                                                   { ~моля ~кг =произвольного количества }
+
+::Q3:: Выберите один правильный ответ: Техническая термодинамика изучает закономерности { ~движения микрочастиц в жидких средах; ~движения макротел; =преобразования энергии различных видов; }
+
+::Q4:: Выберите один правильный ответ: Техническая термодинамика возникла в { ~XV в. н.э. ~XII в. до н.э. =XIX в. н.э. }
+
+::Q5:: Выберите один правильный ответ: Техническая термодинамика формирует мировозрение: { ~метафизическое; =материалистическое ~идеалистическое }
+
+::Q6:: Выберите один правильный ответ: Техническая термодинамика базируется на основных законах { ~нулевом законе; =первом законе; ~четвертом законе }
+
+::Q7:: Выберите один правильный ответ: Первый закон термодинамики устанавливает количественное соотношение между { ~массой, силой и ускорением тела; ~расходом, скоростью и сечением потока; =теплотой и работой в процессах взаимного преобразования; }
+
+::Q8:: Выберите один правильный ответ: Второй закон термодинамики устанавливает: { ~невозможность  передачи тепла от одного тела к другому. ~возможность осуществления "вечного двигателя" второго рода; =невозможность "вечного двигателя" второго рода. }
+
+::Q9:: Выберите один правильный ответ: Техническая термодинамика изучает законы: { ~распространение тепла в различных средах; =взаимного преобразования тепла и работы; ~течения жидкостей в трубах; }
+
+::Q10:: Выберите один правильный ответ: Рабочими телами" технической термодинамики являются: { ~твердые тела; ~жидкие тела; =парогазообразные вещества; }
+
+::Q11:: Выберите один правильный ответ: Термодинамической системой называется: { ~газообразные и жидкие тела в в замкнутом объеме; ~твердые тела находящиеся энергетическом взаимодействии друг с другом; =совокупность тел находящихся в энергетическом взаимодействии друг с другом и окружающей средой; }
+
+::Q12:: Выберите один правильный ответ: Термодинамическая система состоит из: { =рабочего тела; ~теплорода ~объекта работы; }
+
+::Q13:: Выберите один правильный ответ: Теплота это: { ~энергия движения электронов; ~энергия внутриядерная; =часть внутренней энергии тела, передаваемая другому микрофизическим путем при их взаимодействии. }
+
+::Q14:: Выберите один правильный ответ: Основным параметром состояния PT является: { ~атмосферное давление ; ~избыточное давление; =абсолютное давление. }
+
+::Q15:: Выберите один правильный ответ: Основным параметром состояния р.т. является: { ~полный объем; =удельный объем; ~удельный вес; }
+
+::Q16:: Выберите один правильный ответ: Основным параметром состояния р.т. является: { ~температура по шкале Цельсия; ~температура по шкале Фаренгейта; =температура по шкале Кельвина; }
+
+::Q17:: Выберите один правильный ответ: Основными параметрами состояния р.т. являются: { ~избыточное давление;	 =абсолютное давление; ~атмосферное давление. }
+
+::Q18:: Выберите один правильный ответ: Сложными параметрами термодинамического состояния рабочего тела являются: { ~полная энтальпия; ~полная энтропия; =удельная энтропия; }
+
+::Q19:: Выберите один правильный ответ: Теплота нагрева до кипения определяется по формуле { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q19_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q19_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q19_2.jpg"/> }
+
+::Q20:: Выберите один правильный ответ: Внутренняя энергия рабочего тела является ...  { ~основным параметром состояния =сложным параметром состояния ~функцией процесса }
+
+::Q21:: Выберите один правильный ответ: Внутренняя энергия идеального газа зависит ... { ~только от удельного объема ~только от давления =только от температуры }
+
+::Q22:: Выберите один правильный ответ: Изменение внутренней энергии рабочего тела зависит только от изменения ... { ~объема ~давления =только от изменения температуры }
+
+::Q23:: Выберите один правильный ответ: Изменение внутренней энергии рабочего тела одинаков от во всех термодинамических процессах , где ... { ~одинаково изменение объема ~одинаково изменение давления =одинаково изменение температуры }
+
+::Q24:: Выберите один правильный ответ: Изменение внутренней энергии рабочего тела в изохорном процессе определяется по формуле ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_2.jpg"/> }
+
+::Q25:: Выберите один правильный ответ: Изменение внутренней энергии рабочего тела в изобарном процессе определяется по формуле ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q25_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q25_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q25_2.jpg"/> }
+
+::Q26:: Выберите один правильный ответ: Изменение внутренней энергии рабочего тела в изотермическом процессе определяется по формуле  { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q26_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q26_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q26_2.jpg"/> }
+
+::Q27:: Выберите один правильный ответ: Изменение внутренней энергии рабочего тела в адиабатном процессе определяется по формуле ...  { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q27_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q27_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q27_2.jpg"/> }
+
+::Q28:: Выберите один правильный ответ: Изменение внутренней энергии рабочего тела в политропных процессах определяется по формуле ... . { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q28_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q28_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q28_2.jpg"/> }
+
+::Q29:: Выберите один правильный ответ: Изменение внутренней энергии рабочего тела определяется во всех термодинамических процессах по формуле ... . { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q29_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q29_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q29_2.jpg"/> }
+
+::Q30:: Выберите один правильный ответ: Теплота есть ... . { ~функция состояния =функция процесса ~физическая характеристика тела }
+
+::Q31:: Выберите один правильный ответ: Удельная теплота в изохорном процессе определяется по формуле ...  { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q31_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q31_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q31_2.jpg"/> }
+
+::Q32:: Выберите один правильный ответ: Удельная теплота изотермического процесса определяется по формуле ...  { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q32_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q32_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q32_2.jpg"/> }
+
+::Q33:: Выберите один правильный ответ: Удельная теплота изотермического процесса определяется по формуле ...  { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q33_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q33_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q33_2.jpg"/> }
+
+::Q34:: Выберите один правильный ответ: Теплота, подведенная в изохорном процессе, идет на ... { ~изменение энтальпии ~изменении энтропии =изменение внутренней энергии }
+
+::Q35:: Выберите один правильный ответ: Теплота в изобарном процессе идет на ... { ~изменение внутренней энергии ~совершение работы =совершение работы и изменение внутренней энергии }
+
+::Q36:: Выберите один правильный ответ: Теплота, подведенная в изотермическом процессе идет на ... { ~изменение внутренней энергии =на совершение работы ~на совершение работы и изменение внутренней энергии }
+
+::Q37:: Выберите один правильный ответ: Теплота, подведенная в политропном процессе идет на ... { ~совершение работы ~изменение энтальпии =изменение внутренней энергии и совершение работы }
+
+::Q38:: Выберите один правильный ответ: Работа, совершенная рабочим телом в изохорном процессе, равна ... { ~изменению внутренней энергии ~теплоте =нулю }
+
+::Q39:: Выберите один правильный ответ: Работа, совершаемая рабочим телом в изобарном процессе , равна ... { ~теплоте ~теплоте и изменению внутренней энергии =разности между теплотой и изменением внутренней энергии }
+
+::Q40:: Выберите один правильный ответ: Работа, совершаемая рабочим телом в изотермическом процессе, равна ... { ~изменению внутренней энергии =теплоте ~нулю }
+
+::Q41:: Выберите один правильный ответ: Работа, совершаемая рабочим телом в адиабатном процессе, равна { =изменению внутренней энергии ~теплоте процесса ~изменению энтальпии }
+
+::Q42:: Выберите один правильный ответ: Выражение для 1-го закона термодинамики в общем виде для любого термодинамического процесса записывается в виде ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q42_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q42_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q42_2.jpg"/> }
+
+::Q43:: Выберите один правильный ответ: Первый закон термодинамики для изохорного процесса записывается в виде ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q43_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q43_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q43_2.jpg"/> }
+
+::Q44:: Выберите один правильный ответ: Первый закон термодинамики для изобарного процесса записывается в виде ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_2.jpg"/> }
+
+::Q45:: Выберите один правильный ответ: Изменение энтальпии в любом процессе определяется по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q45_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q45_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q45_2.jpg"/> }
+
+::Q46:: Выберите один правильный ответ: Изменение энтропии в изохорном процессе определяется по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q46_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q46_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q46_2.jpg"/> }
+
+::Q47:: Выберите один правильный ответ: Удельная теплота изобарного процесса определяется по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q47_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q47_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q47_2.jpg"/> }
+
+::Q48:: Выберите один правильный ответ: Удельная теплота политропного процесса определяется по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q48_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q48_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q48_2.jpg"/> }
+
+::Q49:: Выберите один правильный ответ: Удельная теплота в любом термодинамическом процессе определяется по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q49_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q49_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q49_2.jpg"/> }
+
+::Q50:: Выберите один правильный ответ: Работа, совершаемая рабочим телом в политропном процессе, равна ... { ~изменению внутренней энергии =разности теплоты и изменения внутренней энергии ~нулю }
+
+::Q51:: Выберите один правильный ответ: Первый закон термодинамики для изотермического процесса записывается в виде ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q51_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q51_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q51_2.jpg"/> }
+
+::Q52:: Выберите один правильный ответ: Изменение энтропии в изобарном процессе определяется по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q52_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q52_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q52_2.jpg"/> }
+
+::Q53:: Выберите один правильный ответ: Изменение энтропии в изотермическом процессе может определяться по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q53_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q53_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q53_2.jpg"/> }
+
+::Q54:: Выберите один правильный ответ: Измененение энтропии в адиабатнои процессе равно ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q54_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q54_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q54_2.jpg"/> }
+
+::Q55:: Выберите один правильный ответ: Изменение энтропии в изотермическои процессе определяется по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q55_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q55_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q55_2.jpg"/> }
+
+::Q56:: Выберите один правильный ответ: Изменение энтропии в политропном процессе определяется по формуле ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q56_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q56_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q56_2.jpg"/> }
+
+::Q57:: Выберите один правильный ответ: Изменение энтропии в любом процессе может быть определено как ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q57_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q57_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q57_2.jpg"/> }
+
+::Q58:: Ответьте на вопрос указанный на картинке: <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q58.jpg"/> { ~изобарный ~изотермический =изохорный }
+
+::Q59:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q59.jpg"/> { ~изотермический =изобарный ~адиабатный }
+
+::Q60:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q60.jpg"/> { ~изохорный =изотермический ~адиабатный }
+
+::Q61:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q61.jpg"/> { ~изобарный ~изотермический =адиабатный }
+
+::Q62:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q62.jpg"/> { ~изотермический ~адиабатный =политропный }
+
+::Q63:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q63.jpg"/> { =увеличивается ~уменьшается ~постоянна }
+
+::Q64:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q64.jpg"/> { =увеличивается ~уменьшается ~постоянна }
+
+::Q65:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q65.jpg"/> { ~увеличивается =уменьшается ~постоянна }
+
+::Q66:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q66.jpg"/> { ~увеличивается ~уменьшается =постоянна }
+
+::Q67:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q67.jpg"/> { ~увеличивается ~уменьшается =постоянна }
+

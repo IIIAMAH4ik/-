@@ -1,0 +1,281 @@
+::Q1:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q1.jpg"/> { ~изохорный процесс перехода влажного пара в перегретый ~изобарный процесс перехода влажного пара в перегретый =изотермический процесс перехода влажного пара в перегретый }
+
+::Q2:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q2.jpg"/> { ~изохорный процесс перехода перегретого пара во влажный ~адиабатный процесс =изотермический процесс перехода перегретого пара во влажный }
+
+::Q3:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q3.jpg"/> { ~изохорный процесс перехода влажного пара в сухой ~изобарный процесс перехода сухого пара в перегретый =адиабатный процесс перехода перегретого пара во влажный }
+
+::Q4:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q4.jpg"/> { ~адиабатное расширение ~адиабатное сжатие =изохорный отвод тепла }
+
+::Q5:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q5.jpg"/> { =изохорный подвод тепла ~изобарный отвод тепла ~адиабатное расширение }
+
+::Q6:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q6.jpg"/> { ~изохорный отвод тепла =изобарный подвод тепла ~изотермический отвод тепла }
+
+::Q7:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q7.jpg"/> { ~изобарное расширение ~изотермическое сжатие =адиабатное расширение }
+
+::Q8:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q8.jpg"/> { ~адиабатное расширение ~изотермическое расширение =адиабатное сжатие }
+
+::Q9:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q9.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_4.jpg"/> }
+
+::Q10:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q10.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q10_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q10_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q10_4.jpg"/> }
+
+::Q11:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q11.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_4.jpg"/> }
+
+::Q12:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q12.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_4.jpg"/> }
+
+::Q13:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q13.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_4.jpg"/> }
+
+::Q14:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q14.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_4.jpg"/> }
+
+::Q15:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q15.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_4.jpg"/> }
+
+::Q16:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q16.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q16_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q16_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q16_4.jpg"/> }
+
+::Q17:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В процессе 1-2 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q17.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q17_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q17_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q17_4.jpg"/> }
+
+::Q18:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Это цикл
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q18.jpg"/> { ~Отто ~Дизеля =Ренкина }
+
+::Q19:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Отрезок 1-2 на графике изображает … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q19.jpg"/> { ~нагрева воды до кипения =расширение пара в турбине ~парообразование }
+
+::Q20:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Отрезок 2-3 на графике изображает … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q20.jpg"/> { ~процесс нагрева воды до кипения ~перегрев пара =конденсацию пара }
+
+::Q21:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Отрезок 3-4 на графике изображает … . 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q21.jpg"/> { =процесс подачи воды в котел ~нагрев воды до кипения ~перегрев пара }
+
+::Q22:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Отрезок 4-5 на графике изображает … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q22.jpg"/> { ~процесс подачи воды в котел =нагрев воды до кипения ~перегрев пара }
+
+::Q23:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Отрезок 5-6 на графике изображает … . 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q23.jpg"/> { ~перегрев пара ~конденсацию пара =процесс парообразования }
+
+::Q24:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Отрезок 6-1 на графике изображает … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q24.jpg"/> { ~процесс подачи воды в котел ~нагрев воды до кипения =перегрев пара }
+
+::Q25:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Тепло подводится в процессах 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q25.jpg"/> { ~1-2 ~2-3 =4-5 }
+
+::Q26:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Тепло отводится в процессе
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q26.jpg"/> { ~1-2 =2-3 ~3-4 }
+
+::Q27:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Совокупное тепло подведённое  в цикле равно площади фигуры
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q27.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q27_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q27_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q27_4.jpg"/> }
+
+::Q28:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Тепло отведенное цикле равно площади фигуры
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q28.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q28_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q28_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q28_4.jpg"/> }
+
+::Q29:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+КПД цикла определяется отношением площадей фигур
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q29.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q29_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q29_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q29_4.jpg"/> }
+
+::Q30:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+КПД цикла определяется отношением
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q30.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q30_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q30_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q30_4.jpg"/> }
+
+::Q31:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Укажите, какой процесс изображен на отрезке 2-3 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q31.jpg"/> { ~изохорный =изобарный ~изотермический }
+
+::Q32:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Укажите, какой процесс изображен на отрезке 2-3 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q32.jpg"/> { ~изохорный =изобарный ~изотермический }
+
+::Q33:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Укажите, какой процесс изображен на отрезке 2-4 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q33.jpg"/> { ~изохорный ~изобарный =изотермический }
+
+::Q34:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Укажите, какой процесс изображен на отрезке 1-5 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q34.jpg"/> { =изохорный ~изобарный ~изотермический }
+
+::Q35:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Кривая 1-X1 называется 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q35.jpg"/> { ~верхней пограничной кривой ~нижней пограничной кривой =линией постоянной степени сухости меньшей единицы }
+
+::Q36:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q36.jpg"/> { ~процесс адиабатического расширения =процесс изотермического расширения ~процесс изотермического сжатия }
+
+::Q37:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q37.jpg"/> { ~процесс изотермического сжатия =процесс адиабатного расширения ~процесс изотермического расширения }
+
+::Q38:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q38.jpg"/> { ~процесс изобарного расширения =изохорный процесс ~процесс изотермического сжатия }
+
+::Q39:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Особенности присущие процессу представленному на графике
+следующие:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q39.jpg"/> { =процесс проходит с подводом тепла ~процесс проходит без теплообмена ~процесс проходит с отводом тепла }
+
+::Q40:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Особенности присущие процессу представленному на графике 
+следующие:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q40.jpg"/> { =испарение ~конденсации ~осуществлается подвод тепла }
+
+::Q41:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Особенности присущие процессу представленному на графике 
+следующие:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q41.jpg"/> { ~процесс проходит с подводом тепла =процесс проходит с отводом тепла ~процесс проходит без теплообмена }
+
+::Q42:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Особенности присущие процессу представленному на графике
+следующие:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q42.jpg"/> { ~испарение =конденсация ~процесс проходит с подводом тепла }
+
+::Q43:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Особенности присущие процессу представленному на графике 
+следующие:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q43.jpg"/> { ~процесс проходит с подводом тепла ~процесс проходит с отводом тепла =процесс проходит без теплообмена }
+
+::Q44:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Особенности присущие процессу представленному на графике 
+следующие:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q44.jpg"/> { ~испарение =конденсация ~процесс проходит без теплообмена }
+
+::Q45:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Особенности присущие процессу представленному на графике
+следующие:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q45.jpg"/> { =процесс проходит с подводом тепла ~процесс проходит с отводом тепла ~процесс проходит без теплообмена }
+
+::Q46:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Особенности присущие процессу представленному на графике
+следующие:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q46.jpg"/> { ~процесс проходит с подводом тепла =процесс проходит с отводом тепла ~процесс проходит без теплообмена }
+
+::Q47:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точка “a” характеризует состояние … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q47.jpg"/> { ~воды при Т=0,К =воды при Т=273,15 К ~воды кипящей }
+
+::Q48:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точка  “O”  характеризует состояние
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q48.jpg"/> { ~воды при Т=0,К ~воды при Т=273,15 =воды при 273,15<T<Ts }
+
+::Q49:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q49.jpg"/> { ~воды при Т=0 =кипящей воды ~перегретой воды }
+
+::Q50:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q50.jpg"/> { ~воды при Т<Ts =влажного пора ~сухого пора }
+
+::Q51:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q51.jpg"/> { ~нагретой жидкости ~кипящей жидкости =сухого пара }
+
+::Q52:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q52.jpg"/> { =перегретого пара ~перегретой жидкости ~недогретой жидкости }
+
+::Q53:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q53.jpg"/> { =0 ~1 ~<1 }
+
+::Q54:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q54.jpg"/> { ~x<0 ~x>0 =0 }
+
+::Q55:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q55.jpg"/> { =0 ~1 ~2 }
+
+::Q56:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В точке ”e” степень сухости “x” равна … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q56.jpg"/> { ~0 ~1 =0<x<1 }
+
+::Q57:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+  В точка ” c”  степень сухости …  <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q57.jpg"/> { ~x=0 =x=1 ~x>0 }
+
+::Q58:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+В точке ”d”степень сухости  ”x” … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q58.jpg"/> { ~x=0 ~x=1 =не определяется }
+
+::Q59:: Выберите один правильный ответ: Понятие "степень сухости" относится к ...  { ~холодной воде ~горячей воде =влажному пару }
+
+::Q60:: Ответьте на вопрос указанный на картинке: Линия ”A” называется … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q60.jpg"/> { =нулевой изотермой ~нулевой пограничной кривой ~верхней пограничной кривой }
+
+::Q61:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия ”KB”называется … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q61.jpg"/> { ~изобарой ~нулевой изотермой =нижней пограничной кривой }
+
+::Q62:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия  ”KC” называется … <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q62.jpg"/> { ~нулевой изотермой ~изобарой =верхней пограничнои кривой }
+
+::Q63:: Выберите один правильный ответ: Влагосодержанием влажного воздуха называется ...  { ~количество влаги в 1 кг влажного воздуха =количество влаги в граммах, приходящееся на 1 кг сухого воздуха ~количество влаги в граммах, приходящееся на 1 кг влажного воздуха }
+
+::Q64:: Выберите один правильный ответ: Энтальпия (теплосодержание ) влажного воздуха определяется как ....  { ~разность энтальпий сухого воздуха и пара, находящегося во влажном воздухе =сумма энтальпий сухого воздуха и пара, входящих во влажный воздух ~сумма энтальпий сухого воздуха и сухого пара, входящих во влажный воздух }
+
+::Q65:: Выберите один правильный ответ: Температура сухого термометра - это ...  { =температура влажного воздуха ~температура сухого пара при его парциальном давлении ~температура влажного пара при его парциальном давлении }
+
+::Q66:: Выберите один правильный ответ: Температура мокрого термометра - это ...  { ~температура влажного воздуха ~температура сухого пара при его парциальном давлении =температура сухого пара при парциальном давлении пара в насыщенном воздухе }
+
+::Q67:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q67.jpg"/> { ~линию постоянной температуры ~линию постоянного влагосодержания =линию постоянной энтальпии }
+
+::Q68:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия изображает<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q68.jpg"/> { ~линию сухого термометра =линию мокрого термометра ~изоэнтальпию }
+
+::Q69:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия изображает
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q69.jpg"/> { ~изобару =изотерму ~изоэнтальпию }
+
+::Q70:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия изображает<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q70.jpg"/> { ~изохору ~адиабату =линию постоянного влагосодержания }
+
+::Q71:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия изображает
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q71.jpg"/> { ~изотерму ~изобару =Линию  фи=const }
+
+::Q72:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q72.jpg"/> { ~влагосодержание =относительная влажность ~абсолютная влажность }
+
+::Q73:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q73.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q73_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q73_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q73_4.jpg"/> }
+
+::Q74:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+1-2 - это процесс <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q74.jpg"/> { =нагрева воздуха ~охлаждения воздуха ~увлажнения воздуха }
+
+::Q75:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+1-2 - это процесс<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q75.jpg"/> { =нагрева воздуха ~охлаждения воздуха ~сушки воздуха }
+
+::Q76:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+1-2 - это процесс<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q76.jpg"/> { ~нагрева воздуха ~охлаждения воздуха =увлажнения воздуха }
+
+::Q77:: Выберите один правильный ответ: Влажный воздух-это: { ~химический однородный газ  ~механическая смесь азота и кислорода  =механическая смесь азота , кислорода и паров воды  }
+
+::Q78:: Выберите один правильный ответ: Сухой воздух - это  { ~химический однородный газ =механическая смесь азота и кислорода ~механическая смесь азота , кислорода и паров воды }
+
+::Q79:: Выберите один правильный ответ: Идеальной газовой смесью называется  { ~смесь реальных газов , взаимодействующих между собой ~смесь идеальнйх газов , взаимодействующих между собой =смесь идеальных газов , не взаимодействующих между собой }
+
+::Q80:: Выберите один правильный ответ: Парциальное давление компонента идеальной газовой смеси равно : { ~полному давлению смеси в объеме при данной температуре ~полному давлению смеси в объеме при 0 град =давлению , которое установится в обьеме , заполненном только данным компонентом при температуре смеси }
+
+::Q81:: Выберите один правильный ответ: Парциальным объемом компонента смеси называется : { ~объем смеси при данной температуре и девлении ~объем смесипри 0 град. атмосферном давлении =объему компонента , который он займет , находясь под давлением смеси и температуре смеси }
+

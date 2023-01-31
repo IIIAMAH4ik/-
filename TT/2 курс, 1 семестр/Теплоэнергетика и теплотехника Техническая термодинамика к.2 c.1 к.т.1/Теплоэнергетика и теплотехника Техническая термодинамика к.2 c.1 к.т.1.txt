@@ -1,0 +1,217 @@
+::Q1:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Линия «КС» называется<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q1.jpg"/> { ~нулевой изотермой ~нижней пограничной кривой =верхней пограничной кривой }
+
+::Q2:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Линия «ав» <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q2.jpg"/> { ~перегрев пара ~парообразование =нагрев воды до кипения }
+
+::Q3:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Линия «вс» <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q3.jpg"/> { ~перегрев пара =парообразование ~нагрев воды до кипения }
+
+::Q4:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Линия «вс» <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q4.jpg"/> { ~изохора =изобара ~адиабата }
+
+::Q5:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ В точке «К» степень сухости «Х» <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q5.jpg"/> { ~равна нулю ~больше нуля =не определяется }
+
+::Q6:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ В точке «m» <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q6.jpg"/> { ~сухой пар =перегретый пар ~кипящая жидкость }
+
+::Q7:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Линия lkm <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q7.jpg"/> { ~критическая изохора =критическая изотерма ~критическая адиабата }
+
+::Q8:: Выберите один правильный ответ: При критическом давлении теплота парообразования { ~больше нуля ~меньше нуля =равно нулю }
+
+::Q9:: Выберите один правильный ответ: Критическое давление для воды равно { ~25 атм ~159 атм =224 атм }
+
+::Q10:: Выберите один правильный ответ: Критическая температура для воды равна { ~100 C =374 C ~275 C }
+
+::Q11:: Выберите один правильный ответ: Теплота парообразования при p=const равна { ~изменению температуры ~изменению внутренней энергии =изменению энтальпии }
+
+::Q12:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Процесс, изображенный на графике <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q12.jpg"/> { ~изохорный ~изотермический =изобарный }
+
+::Q13:: Ответьте на вопрос указанный на картинке: Процесс, изображенный на графике <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q13.jpg"/> { ~изохорный ~изобарный =изотермический }
+
+::Q14:: Ответьте на вопрос указанный на картинке: Процесс, изображенный на графике <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q14.jpg"/> { =изохорный ~изобарный ~изотермический }
+
+::Q15:: Ответьте на вопрос указанный на картинке: Процесс, изображенный на графике называется <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q15.jpg"/> { ~изохорный ~изотермический =адиабатный }
+
+::Q16:: Ответьте на вопрос указанный на картинке: Область недогретой жидкости <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q16.jpg"/> { = I ~III ~II }
+
+::Q17:: Ответьте на вопрос указанный на картинке: Область влажного пара <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q17.jpg"/> { ~I ~III =II }
+
+::Q18:: Ответьте на вопрос указанный на картинке: Область перегретого пара <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q18.jpg"/> { =III ~ I ~II }
+
+::Q19:: Ответьте на вопрос указанный на картинке: Степень сухости «Х» равна нулю <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q19.jpg"/> { ~в оюласти III =на линии КВ ~на линии КС }
+
+::Q20:: Ответьте на вопрос указанный на картинке: Степень сухости 0<X<1 в области <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q20.jpg"/> { ~I =II ~III }
+
+::Q21:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Степень сухости Х=1 в области <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q21.jpg"/> { ~I ~на линии КВ =на линии КС }
+
+::Q22:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Линия 1-2 является <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q22.jpg"/> { ~изохорой =изотермой ~изобарой }
+
+::Q23:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Линия 2-3 является <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q23.jpg"/> { =изотермой ~изохорой ~адиабатой }
+
+::Q24:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Линия 3-4 является <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q24.jpg"/> { =изотермой ~изохорой ~изобарой }
+
+::Q25:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ В процессе 1-2 теплота <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q25.jpg"/> { =подводится ~отводится ~равна нулю }
+
+::Q26:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ В процессе 2-3 теплота <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q26.jpg"/> { =подводится ~отводится ~равна нулю }
+
+::Q27:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ В процессе 3-4теплота <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q27.jpg"/> { =подводится ~отводится ~равна нулю }
+
+::Q28:: Выберите один правильный ответ: Температура кипения воды зависит от { ~объема воды =давления ~ни от чего не зависит }
+
+::Q29:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Точки на линии «ав» изображают состояния: <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q29.jpg"/> { =кипящей жидкости ~сухого пара ~влажного пара }
+
+::Q30:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Точки на линии «вс» изображают состояния: <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q30.jpg"/> { ~жидкости =влажного пара ~сухого пара }
+
+::Q31:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Точки на линии «сd» изображают состояния: <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q31.jpg"/> { ~влажного пара ~сухого пара =перегретого пара }
+
+::Q32:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Та - температура <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q32.jpg"/> { =равна 0 С ~сухого пара ~кипения }
+
+::Q33:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Тв - температура <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q33.jpg"/> { ~равна 0 С =кипения ~перегретого пара }
+
+::Q34:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Тс - температура <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q34.jpg"/> { ~равна 0 С =сухого пара ~перегретого пара }
+
+::Q35:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Тd - температура <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q35.jpg"/> { ~сухого пара ~влажного пара =перегретого пара }
+
+::Q36:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ - энтропия <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q36.jpg"/> { =кипящей жидкости ~влажного пара ~сухого пара }
+
+::Q37:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Sx- энтропия <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q37.jpg"/> { ~кипящей жидкости =влажного пара ~сухого пара }
+
+::Q38:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ - энтропия <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q38.jpg"/> { ~кипящей жидкости ~влажного пара =сухого пара }
+
+::Q39:: Ответьте на вопрос указанный на картинке: Теплота подводимая к 1 кг воды до точки кипения равна площади фигуры <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q39.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q39_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q39_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q39_4.jpg"/> }
+
+::Q40:: Ответьте на вопрос указанный на картинке: Теплота парообразования равна площади фигуры <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q40.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q40_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q40_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q40_4.jpg"/> }
+
+::Q41:: Ответьте на вопрос указанный на картинке: Теплота перегрева пара равна площади фигуры <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q41.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q41_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q41_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q41_4.jpg"/> }
+
+::Q42:: Ответьте на вопрос указанный на картинке: Теплота подведенная к 1 кг воды для получения перегретого пара равна площади фигуры <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q42.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q42_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q42_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q42_4.jpg"/> }
+
+::Q43:: Выберите один правильный ответ: Теплота нагрева до кипения определяется по формуле { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q43_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q43_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q43_2.jpg"/> }
+
+::Q44:: Выберите один правильный ответ: Теплота перегрева определяется по формуле { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_2.jpg"/> }
+
+::Q45:: Выберите один правильный ответ: Теплота парообразования с увеличением температуры { ~увеличивается =уменьшается ~не зависит }
+
+::Q46:: Выберите один правильный ответ: Теплота парообразования с увеличением давления { ~увеличивается =уменьшается ~не меняется }
+
+::Q47:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ Точка «а» изображает состояние <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q47.jpg"/> { ~перегретого пара ~кипящей воды =воды при 0 град. цельсия }
+
+::Q48:: Ответьте на вопрос указанный на картинке: Точка «в» изображает состояние <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q48.jpg"/> { ~перегретого пара =кипящей воды ~воды при 0 град. цельсия }
+
+::Q49:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точка «е» изображает состояние
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q49.jpg"/> { ~сухого пара =влажного пара ~перегретого пара }
+
+::Q50:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точка «с» изображает состояние
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q50.jpg"/> { =сухого пара ~влажного пара ~перегретого пара }
+
+::Q51:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точка «d» изображает состояние
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q51.jpg"/> { ~кипящей воды ~влажного пара =перегретого пара }
+
+::Q52:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точка «K» изображает состояние
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q52.jpg"/> { ~перегретого пара ~кипящей воды =критическое }
+
+::Q53:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия «ав» является<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q53.jpg"/> { ~изохорой =изобарой ~изотермой }
+
+::Q54:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия «вс» является
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q54.jpg"/> { ~изохорой =изобарой ~адиабатой }
+
+::Q55:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия «сd» является
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q55.jpg"/> { ~изохорой ~изотермой =изобарой }
+
+::Q56:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия «авк» называется<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q56.jpg"/> { ~верхней пограничной кривой =нижней пограничной кривой ~нулевой изотермой }
+
+::Q57:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия «кс» называется
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q57.jpg"/> { =верхней пограничной кривой ~нижней пограничной кривой ~правой пограничной кривой }
+
+::Q58:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Линия «кх» называется<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q58.jpg"/> { ~нижней пограничной кривой ~средней пограничной кривой =линией постоянной степени сухости }
+
+::Q59:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точки на линии «авк» изображают состояния
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q59.jpg"/> { =кипящей жидкости ~влажного пара ~сухого пара }
+
+::Q60:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+На линии «авк» степень сухости равна
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q60.jpg"/> { =0 ~>0 ~<0 }
+
+::Q61:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+На линии «кс» степень сухости равна
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q61.jpg"/> { =1 ~0 ~<0 }
+
+::Q62:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+На линии «кх» степень сухости равна
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q62.jpg"/> { ~0 ~<0 =>0 }
+
+::Q63:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точки на линии «вс» изображают состояния<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q63.jpg"/> { ~сухого пара =влажного пара ~перегретого пара }
+
+::Q64:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Точки расположенные правее и выше линии «кс» изображают 
+состояние
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q64.jpg"/> { ~влажного пара ~сухого пара =перегретого пара }
+
+::Q65:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+ia - энтальпия
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q65.jpg"/> { =воды при 0 град. цельсия ~кипящей воды ~влажного пара }
+
+::Q66:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+  - энтальпия
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q66.jpg"/> { =кипящей воды ~влажного пара ~сухого пара }
+
+::Q67:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+ - энтальпия<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q67.jpg"/> { ~кипящей воды =влажного пара ~сухого пара }
+
+::Q68:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+ - энтальпия<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q68.jpg"/> { ~влажного пара =сухого пара ~перегретого пара }
+
+::Q69:: Ответьте на вопрос указанный на картинке: v<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q69.jpg"/> { ~влажного пара ~сухого пара =перегретого пара }
+
+::Q70:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+i- это теплота подведенная к 1 кг
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q70.jpg"/> { =изобарном процессе ~изотермическом процессе ~адиабатном }
+
+::Q71:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+ 	- это теплота подведенная к 1 кг воды (при постоянном 
+давлении) от 0 град. цельсия до
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q71.jpg"/> { =кипения ~парообразования ~перегрева }
+
+::Q72:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+ - это теплота подведенная к 1 кг воды (при постоянном давлении) с t=0 град. цельсия для превращения ее в 
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q72.jpg"/> { ~кипящую жидкость ~влажный пар =сухой пар }
+
+::Q73:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+ - это теплота, подведенная в изобарном процессе к 1 кг воды 
+при 0 град. цельсия до получения 1 кг
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q73.jpg"/> { ~кипящей жидкости =влажного пара ~сухого пара }
+
+::Q74:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+ - это теплота, подведенная к 1 кг воды при постоянном 
+давлении от 0 град. цельсия до получения 1 кг<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q74.jpg"/> { ~влажного пара ~сухого пара =перегретого пара }
+
+::Q75:: Выберите один правильный ответ: Теплота парообразования - это количество тепла необходимое в изобарном процессе для { ~нагрева 1 кг воды от 0 град. цельсия в кипящую жидкость ~нагрева 1 кг воды от 0 град. цельсия в перегретый пар =от состояния кипящей жидкости в сухой пар }
+
+::Q76:: Выберите один правильный ответ: r- это  { ~теплота нагрева до кипения ~теплота нагрева до сухого пара =теплота парообразования }
+
+::Q77:: Ответьте на вопрос указанный на картинке: Теплота парообразования определяется
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q77.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q77_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q77_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q77_4.jpg"/> }
+
+::Q78:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q78.jpg"/> { ~изохорный процесс перехода влажного пара в перегретый =изобарный процесс перехода влажного пара в перегретый ~изотермический процесс перехода влажного пара в перегретый }
+
+::Q79:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q79.jpg"/> { ~изохорный процесс перехода перегретого пара во влажный =изобарный процесс перехода перегретого пара во влажный ~изотермический процесс перехода перегретого пара во влажный }
+
+::Q80:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q80.jpg"/> { =изохорный процесс перехода влажного пара в перегретый ~изобарный процесс перехода влажного пара в перегретый ~адиабатный процесс перехода влажного пара в перегретый }
+
+::Q81:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Процесс 1-2 это
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q81.jpg"/> { =изохорный процесс перехода перегретого пара во влажный ~изобарный процесс перехода перегретого пара во влажный ~изотермический процесс перехода перегретого пара во влажный }
+

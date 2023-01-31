@@ -1,0 +1,181 @@
+::Q1:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q1.jpg"/> { =увеличивается ~уменьшается ~постоянна }
+
+::Q2:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q2.jpg"/> { ~увеличивается =уменьшается ~постоянна }
+
+::Q3:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q3.jpg"/> { =увеличивается ~уменьшается ~постоянна }
+
+::Q4:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Внутренняя энергия
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q4.jpg"/> { ~увеличивается =уменьшается ~постоянна }
+
+::Q5:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q5.jpg"/> { ~положительна ~отрицательна =равна нулю }
+
+::Q6:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q6.jpg"/> { ~положительна ~отрицательна =равна нулю }
+
+::Q7:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q7.jpg"/> { =положительна ~отрицательна ~равна нулю }
+
+::Q8:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q8.jpg"/> { ~положительна =отрицательна ~равна нулю }
+
+::Q9:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q9.jpg"/> { ~положительна =отрицатенльна ~равна нулю }
+
+::Q10:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q10.jpg"/> { =положительна ~отрицательна ~равна нулю }
+
+::Q11:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q11.jpg"/> { =положительна ~отрицательна ~равна нулю }
+
+::Q12:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q12.jpg"/> { ~положительна =отрицательна ~равна нулю }
+
+::Q13:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q13.jpg"/> { ~подводится =отводится ~равна нулю }
+
+::Q14:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q14.jpg"/> { =подводится ~отводится ~равна нулю }
+
+::Q15:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q15.jpg"/> { ~равна нулю =теплота подводится ~теплота отводится }
+
+::Q16:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q16.jpg"/> { ~равна нулю ~теплота подводится =теплота отводится }
+
+::Q17:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q17.jpg"/> { =подводится ~отводится ~равна нулю }
+
+::Q18:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q18.jpg"/> { ~подводится =отводится ~равна нулю }
+
+::Q19:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q19.jpg"/> { ~подводится ~отводится =равна нулю }
+
+::Q20:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q20.jpg"/> { ~подводится ~отводится =равна нулю }
+
+::Q21:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q21.jpg"/> { =подводится ~отводится ~равна нулю }
+
+::Q22:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q22.jpg"/> { ~подводится =отводится ~равна нулю }
+
+::Q23:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q23.jpg"/> { ~подводится =отводится ~равна нулю }
+
+::Q24:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q24.jpg"/> { =увеличивается ~уменьшается ~постоянна }
+
+::Q25:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q25.jpg"/> { ~увеличивается =уменьшается ~постоянна }
+
+::Q26:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q26.jpg"/> { =увеличивается ~уменьшается ~постоянна }
+
+::Q27:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q27.jpg"/> { ~увеличивается =уменьшается ~постоянна }
+
+::Q28:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q28.jpg"/> { ~увеличивается ~уменьшается =постоянна }
+
+::Q29:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q29.jpg"/> { ~увеличивается ~уменьшается =постоянна }
+
+::Q30:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q30.jpg"/> { ~увеличивается =уменьшается ~постоянна }
+
+::Q31:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q31.jpg"/> { ~увеличивается =уменьшается ~постоянна }
+
+::Q32:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q32.jpg"/> { ~положительна ~отрицательна =равна нулю }
+
+::Q33:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Работа
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q33.jpg"/> { ~положительна ~отрицательна =равна нулю }
+
+::Q34:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q34.jpg"/> { =положительна ~отрицательна ~равна нулю }
+
+::Q35:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q35.jpg"/> { ~положительна =отрицательна ~равна нулю }
+
+::Q36:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q36.jpg"/> { =положительна ~отрицательна ~равна нулю }
+
+::Q37:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q37.jpg"/> { ~положительна =отрицательна ~равна нулю }
+
+::Q38:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q38.jpg"/> { =положительна ~отрицательна ~равна нулю }
+
+::Q39:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q39.jpg"/> { ~положительна =отрицательна ~равна нулю }
+
+::Q40:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Теплота<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q40.jpg"/> { =подводится ~отводится ~равна нулю }
+
+::Q41:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q41.jpg"/> { ~подводится =отводится ~равна нулю }
+
+::Q42:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q42.jpg"/> { ~подводится ~отводится =равна нулю }
+
+::Q43:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q43.jpg"/> { ~подводится ~отводится =равна нулю }
+
+::Q44:: Выберите один правильный ответ: Отметьте правильный ответ Изохорная теплоемкость ... { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q44_2.jpg"/> }
+
+::Q45:: Выберите один правильный ответ: Отметьте правильный ответ Изохорная теплоемкость ... { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q45_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q45_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q45_2.jpg"/> }
+
+::Q46:: Выберите один правильный ответ: Отметьте правильный ответ Изохорная теплоемкость ... { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q46_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q46_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q46_2.jpg"/> }
+
+::Q47:: Выберите один правильный ответ: Отметьте правильный ответ Изобарная теплоемкость ... { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q47_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q47_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q47_2.jpg"/> }
+
+::Q48:: Выберите один правильный ответ: Отметьте правильный ответ Теплоемкость адиабатного процесса ... { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q48_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q48_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q48_2.jpg"/> }
+
+::Q49:: Выберите один правильный ответ: Отметьте правильный ответ Теплоемкость изотермического процесса равна ... { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q49_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q49_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q49_2.jpg"/> }
+
+::Q50:: Выберите один правильный ответ: Отметьте правильный ответ Изменение внутренней энергии в политропном процессе ... { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q50_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q50_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q50_2.jpg"/> }
+
+::Q51:: Выберите один правильный ответ: Отметьте правильный ответ Работа политропного процесса ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q51_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q51_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q51_2.jpg"/> }
+
+::Q52:: Выберите один правильный ответ: Отметьте правильный ответ Теплота политропного процесса ... { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q52_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q52_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q52_2.jpg"/> }
+
+::Q53:: Выберите один правильный ответ: Отметьте правильный ответ Изменение энтальпии политропного процесса ... . { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q53_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q53_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q53_2.jpg"/> }
+
+::Q54:: Выберите один правильный ответ: Отметьте правильный ответ Изменение энтропии политропного процесса ... . { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q54_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q54_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q54_2.jpg"/> }
+
+::Q55:: Выберите один правильный ответ: Отметьте правильный ответ Изобарная теплоемкость ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q55_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q55_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q55_2.jpg"/> }
+
+::Q56:: Выберите один правильный ответ: Отметьте правильный ответ Изобарная теплоемкость ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q56_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q56_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q56_2.jpg"/> }
+
+::Q57:: Выберите один правильный ответ: Отметьте правильный ответ Теплоёмкость политропного процесса { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q57_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q57_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q57_2.jpg"/> }
+
+::Q58:: Выберите один правильный ответ: Отметьте правильный ответ Теплоемкость политропного процесса ... . { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q58_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q58_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q58_2.jpg"/> }
+
+::Q59:: Выберите один правильный ответ: Отметьте правильный ответ Показатель политропы ... . { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q59_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q59_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q59_2.jpg"/> }
+
+::Q60:: Выберите один правильный ответ: Отметьте правильный ответ Показатель политропы ... .  { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q60_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q60_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q60_2.jpg"/> }
+
+::Q61:: Выберите один правильный ответ: Отметьте правильный ответ Показатель адиабаты ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q61_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q61_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q61_2.jpg"/> }
+
+::Q62:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+Теплота
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q62.jpg"/> { =подводится ~отводится ~равна нулю }
+
+::Q63:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q63.jpg"/> { ~подводится =отводится ~равна нулю }
+
+::Q64:: Выберите один правильный ответ: Отметьте правильный ответ Уравнение состояния для 1 кграбочего тела можно записать в виде .... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q64_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q64_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q64_2.jpg"/> }
+
+::Q65:: Выберите один правильный ответ: Уравнение состояния для m кг рабочего тела можно записать в виде ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q65_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q65_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q65_2.jpg"/> }
+
+::Q66:: Выберите один правильный ответ: Уравненние состояния для 1 кг моли рабочего тела можно записать в виде ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q66_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q66_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q66_2.jpg"/> }
+
+::Q67:: Выберите один правильный ответ: Уравнение состояния для 1 кг рабочего тела можно записать в виде ... . { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q67_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q67_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q67_2.jpg"/> }
+

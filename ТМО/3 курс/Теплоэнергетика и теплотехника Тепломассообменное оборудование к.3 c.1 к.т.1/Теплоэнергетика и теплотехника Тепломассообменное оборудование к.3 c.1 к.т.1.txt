@@ -1,0 +1,70 @@
+::Q1:: Выберите один правильный ответ: Артериальное уравнение теплоотдачи при свободной конвекции газа в стационарном режиме: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q1_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q1_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q1_2.jpg"/> }
+
+::Q2:: Выберите один правильный ответ: Критериальное уравнение теплоотдачи при вынужденной конвекции газа в стационарном режиме: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q2_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q2_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q2_2.jpg"/> }
+
+::Q3:: Выберите один правильный ответ: Критериальное уравнение теплоотдачи при вынужденном движениии жидкости в стационарном режиме: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q3_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q3_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q3_2.jpg"/> }
+
+::Q4:: Выберите один правильный ответ: Критериальное уравнение теплоотдачи при свободной конвекции газа в нестационарном режиме: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_2.jpg"/> }
+
+::Q5:: Выберите один правильный ответ: Критериальное уравнение теплоотдачи при вынужденной конвекции газа в нестационарном режиме: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_2.jpg"/> }
+
+::Q6:: Выберите один правильный ответ: Критериальное уравнение теплоотдачи при свободной конвекции жидкости в нестационарном режиме: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_2.jpg"/> }
+
+::Q7:: Выберите один правильный ответ: Критериальное уравнение теплоотдачи при вынужденном движении жидкости в нестационарном режиме: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q7_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q7_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q7_2.jpg"/> }
+
+::Q8:: Выберите один правильный ответ: Критерий теплового подобия: { ~Gr =Pr ~Nu }
+
+::Q9:: Выберите один правильный ответ: Критерий гидродинамического подобия при свободной конвекции: { =Gr ~Pr ~Re }
+
+::Q10:: Выберите один правильный ответ: Критерий гидродинамического подобия при вынужденной конвекции: { ~Gr ~Pr =Re }
+
+::Q11:: Выберите один правильный ответ: Критерий Физического подобия в процессах теплоотдачи: { ~Gr =Pr ~Re }
+
+::Q12:: Выберите один правильный ответ: Критерий временного подобия в процессах теплоотдачи: { ~Re =Fo ~Nu }
+
+::Q13:: Выберите один правильный ответ: В критерий Рейнольдса входят следующие параметры: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_2.jpg"/> }
+
+::Q14:: Выберите один правильный ответ: В критерий Прандтля входят следующие параметры: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_2.jpg"/> }
+
+::Q15:: Выберите один правильный ответ: В критерий Фурье входят следующие параметры: { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q15_2.jpg"/> }
+
+::Q16:: Выберите один правильный ответ: теплота теряемая в окружающую среду дымовыми газами зависит от: { ~температуры окружающей среды ~температуры входящих в отводящую трубу газов =состава уходящих газов }
+
+::Q17:: Выберите один правильный ответ: теплота теряемая в окружающую среду дымовыми газами зависит от: { ~температуры окружающей среды ~температуры входящих в отводящую трубу газов =объема уходящих газов }
+
+::Q18:: Выберите один правильный ответ: теплота теряемая в окружающую среду дымовыми газами зависит от: { ~температуры окружающей среды ~температуры входящих в отводящую трубу газов =теплоемкости уходящих газов }
+
+::Q19:: Выберите один правильный ответ: теплота теряемая в окружающую среду дымовыми газами зависит от: { ~температуры окружающей среды ~температуры входящих в отводящую трубу газов =температуры выходящих из отводящей трубы газов }
+
+::Q20:: Выберите один правильный ответ: В критерий Нусельта входят следующие параметры { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q20_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q20_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q20_2.jpg"/> }
+
+::Q21:: Выберите один правильный ответ: В критерий Грассгофа входят следующие параметры: { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q21_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q21_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q21_2.jpg"/> }
+
+::Q22:: Выберите один правильный ответ: Лучистый теплообмен - это ...  { ~перенос тепла движущейся средой =тепловыми лучами ~твердыми телами }
+
+::Q23:: Выберите один правильный ответ: Тепловые лучи - это ...  { =инфракрасные ~радиоволны ~световые }
+
+::Q24:: Выберите один правильный ответ: Тепловые лучи - это электромагнитные волны в диапазоне длин волн ... . { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q24_2.jpg"/> }
+
+::Q25:: Выберите один правильный ответ: Абсолютно черное тело полностью ... . { ~отражает тепловые лучи =поглощает тепловые лучи ~пропускает тепловые лучи }
+
+::Q26:: Выберите один правильный ответ: Абсолютно белое тело полностью ... . { =отражает тепловые лучи ~поглощает тепловые лучи ~пропускает тепловые лучи }
+
+::Q27:: Ответьте на вопрос указанный на картинке: На рисунке изображено изменение температур
+ теплоносителей при:<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q27.jpg"/> { ~прямотоке =противотоке ~перекрестном токе }
+
+::Q28:: Ответьте на вопрос указанный на картинке: На рисунке изображен график изменения температур
+ теплоносителя при:<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q28.jpg"/> { ~противотоке =конденсации одного из теплоносителей ~кипении одного из теплоносителей }
+
+::Q29:: Ответьте на вопрос указанный на картинке: На рисунке изображен график изменения температур
+ теплоносителя при:<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q29.jpg"/> { =прямотоке ~противотоке ~кипении одного из теплоносителей }
+
+::Q30:: Ответьте на вопрос указанный на картинке: На рисунке изображен график изменения 
+температур теплоносителей при:<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q30.jpg"/> { ~противотоке ~конденсации одного из теплоносителей =кипении одного из теплоносителей }
+
+::Q31:: Ответьте на вопрос указанный на картинке: На рисунке изображен график изменения
+температур теплоносителя при: <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q31.jpg"/> { ~прямотоке ~перекрестный ток =противотоке }
+
+::Q32:: Ответьте на вопрос указанный на картинке: На рисунке изображен график изменения
+температур теплоносителя при: <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q32.jpg"/> { ~прямотоке ~перекрестный ток =конденсации одного из теплоносителей }
+

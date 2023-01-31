@@ -1,0 +1,75 @@
+::Q1:: Выберите один правильный ответ: Общее термическое сопротивление многослойной плоской стенки равно ...  { =сумме термических сопротивлений слоев и теплоотдачи	 ~большему значению термических сопротивлений слоев ~меньшему значению термических сопротивлений слоев }
+
+::Q2:: Выберите один правильный ответ: Коэффициент теплопередачи многослойной плоской стенки ...  { ~равно сумме проводимостей слоев коэффициентов теплоотдачи ~равно меньшему значению проводимости слоев =меньше меньшего значения проводимости слоев }
+
+::Q3:: Выберите один правильный ответ: Теплопередачей называется теплообмен: { ~между отдельными частями твердого тела; ~между отдельными частями жидкой среды; =теплообмен между средами, разделенными непроницаемой стенкой; }
+
+::Q4:: Выберите один правильный ответ: Уравнение теплопередачи для 1слойной плоской стенки  { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q4_2.jpg"/> }
+
+::Q5:: Выберите один правильный ответ: Термическое сопротивление теплопередачи для 1слойной плоской стенки: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q5_2.jpg"/> }
+
+::Q6:: Выберите один правильный ответ: Коэффициент теплопередачи для 1слойной плоской стенки: { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q6_2.jpg"/> }
+
+::Q7:: Выберите один правильный ответ: Теплопередача через многослойную плоскую стенку определяется по формуле: { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q7_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q7_1.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q7_2.jpg"/> }
+
+::Q8:: Ответьте на вопрос указанный на картинке: Линия   -линия:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q8.jpg"/> { =Распределения температуры  ~Распределения тепла  ~Изотермическая  }
+
+::Q9:: Ответьте на вопрос указанный на картинке: Тепловые потоки определяются по формулам <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q9.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q9_4.jpg"/> }
+
+::Q10:: Ответьте на вопрос указанный на картинке: Тепловые потоки определяются по формулам <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q10.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q10_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q10_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q10_4.jpg"/> }
+
+::Q11:: Ответьте на вопрос указанный на картинке: Тепловые потоки определяются по формулам <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q11.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q11_4.jpg"/> }
+
+::Q12:: Выберите один правильный ответ: Для многослойной плоской стенки термическое сопротивление теплоотдачи первой среды первой поверхности: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q12_2.jpg"/> }
+
+::Q13:: Выберите один правильный ответ: Для многослойной плоской стенки термическое сопротивление 1-ой стенки определяется по формуле: { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q13_2.jpg"/> }
+
+::Q14:: Выберите один правильный ответ: Тепловой поток, передаваемый теплопередачей через многослойную цилиндрическую стенку определяется по формуле:  { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_1.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q14_2.jpg"/> }
+
+::Q15:: Ответьте на вопрос указанный на картинке: Выражение справедливо для определения теплового потока <img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q15.jpg"/> { =Между первой средой и 1-ой поверхностью цилиндрического тела   ~Через первую цилиндрическую стенку  ~Через вторую цилиндрическую стенку  }
+
+::Q16:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q16.jpg"/> { ~между первой средой и1-ой поверхностью цилиндрического тела =через первую цилиндрическую стенку ~через вторую цилиндрическую стенку }
+
+::Q17:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q17.jpg"/> { ~через вторую цилиндрическую стенку ~через третью цилиндрическую стенку =между наружной поверхностью и второй средой }
+
+::Q18:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q18.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q18_0.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q18_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q18_4.jpg"/> }
+
+::Q19:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q19.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q19_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q19_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q19_4.jpg"/> }
+
+::Q20:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q20.jpg"/> { ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q20_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q20_3.jpg"/> =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q20_4.jpg"/> }
+
+::Q21:: Ответьте на вопрос указанный на картинке: Средне-логарифмический напор
+ определяется по формуле:<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q21.jpg"/> { =<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q21_0.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q21_3.jpg"/> ~<img style\="vertical-align: middle; margin: 10px; width:300px" src\="@@PLUGINFILE@@/images/Q21_4.jpg"/> }
+
+::Q22:: Выберите один правильный ответ: Теплообменным аппаратом называется устройство, предназначенное для:  { ~аккумулирования тепла ~трансформации тепла =передача тепла от одного теплоносителя к другому }
+
+::Q23:: Выберите один правильный ответ: Рекуператор - это теплообменник, в котором тепло передается от одного теплоносителя к другому { ~при их смешении ~через промежуточное тело =через стенку, разделяющую их }
+
+::Q24:: Выберите один правильный ответ: Регенератор - это теплообменник, в котором тепло передается от одного теплоносителя к другому: { ~при их смешении =через промежуточное тело ~через стенку, разделяющую их }
+
+::Q25:: Выберите один правильный ответ: Смеситель - это теплообменник, в котором тепло передается от одного теплоносителя к другому: { =при их смешении ~через промежуточное тело ~через стенку, разделяющую их }
+
+::Q26:: Выберите один правильный ответ: Наиболее интенсивно теплообмен происходит в теплообменнике: { ~рекуперативном ~регенеративном =смесительном }
+
+::Q27:: Выберите один правильный ответ: Наиболее распространенным теплообменником является: { =рекуперативный ~регенеративный ~смесительный }
+
+::Q28:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q28.jpg"/> { ~теплопередачи теплообменника ~теплопотерь теплообменника =теплового баланса теплообменника }
+
+::Q29:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q29.jpg"/> { =отдаваемое первым теплоносителем ~принимаемое вторым теплоносителем ~теряемое в окружающую среду первым теплоносителем }
+
+::Q30:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q30.jpg"/> { ~отдаваемое первым теплоносителем =принимаемое вторым теплоносителем ~теряемое вторым теплоносителем в окружающую среду }
+
+::Q31:: Ответьте на вопрос указанный на картинке: Отметьте правильный ответ
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q31.jpg"/> { ~теплопотерь в окружающую среду =теплопередачи теплообменника ~теплового баланса теплообменника }
+
+::Q32:: Ответьте на вопрос указанный на картинке: На рисунке изображено изменение температуры теплоносителей при:
+<img style\="vertical-align: middle; margin: 10px; width:500px" src\="@@PLUGINFILE@@/images/Q32.jpg"/> { =прямотоке ~противотоке ~перекрестном токе }
+
